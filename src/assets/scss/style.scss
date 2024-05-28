@@ -8,9 +8,10 @@
 @import "setting/common";
 
 // section
+@import "section/layout";
 @import "section/header";
-// @import "section/layout";
-// @import "section/search";
-// @import "section/video";
+@import "section/search";
+@import "section/video";
+@import "section/loading";
 // @import "section/swiper";
 // @import "section/channel";
